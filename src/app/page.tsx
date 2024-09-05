@@ -46,7 +46,7 @@ export default function Home() {
         <Pagination total={20} color="orange"/>
       </Group>
       
-      <Text ta="center" my="sm">
+      <Text ta="center" my="sm" c="dimmed" fz="15">
         Copyright © 2024 Nutcha Khampoung 660610751
       </Text>
     </Container>
