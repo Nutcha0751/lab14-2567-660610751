@@ -7,7 +7,7 @@ export default function Home() {
       <Title order={2}>Food Review 🍕</Title>
 
       <Text ta="center" my="sm">
-        Copyright © 2024 Chayanin Suatap 650610560
+        Copyright © 2024 Nutcha Khampoung 660610751
       </Text>
     </Container>
   );
