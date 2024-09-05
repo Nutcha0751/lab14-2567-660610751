@@ -12,7 +12,7 @@ export default function Home() {
 
       <Space h = "sm"/>
       <Title order={4}>Your rating</Title>
-      <Rating defaultValue={0} color="orange" size="28.6px" style={{ gap: '1.4px' }}/>
+      <Rating defaultValue={0} mt = "1px" mx = "1px" color="orange" size="28px" style={{ gap: '2.1px' }}/>
 
       <Textarea
       label={<span style={{ fontSize: '13px', fontWeight: 600 }}>Your review</span>}
